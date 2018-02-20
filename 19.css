@@ -1,0 +1,19 @@
+#body{
+    margin: 0px;
+}
+#fd {
+    width: 200px; /*对文字进行处理*/
+    height: 300px;
+    position: absolute;
+    top: 201px;
+    text-align: center;
+
+}
+#dtk{
+    width: 200px;/*浮动区域进行限制*/
+    height: 200px;
+    border:1px solid beige;
+    margin: 0px 100px 250px 500px;
+    position: absolute;
+    overflow: hidden;
+}
